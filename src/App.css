@@ -1,0 +1,16 @@
+.cards{
+ 
+ vertical-align:text-bottom;
+ 
+}
+.card{
+  display: flex;
+  justify-content:space-between;
+  margin-left: 2rem;
+}
+.card_img{
+  height: 20rem;
+  width: 20rem;
+  margin: 1rem;
+  border-radius: 0.8rem;
+}

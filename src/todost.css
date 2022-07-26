@@ -1,0 +1,42 @@
+.main_div{
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+    height:100vh;
+    width: 100vw;
+    border: solid red;
+}
+.center_div{
+    display: flex;
+    flex-direction: column;
+    
+    background-color: cyan;
+    height:fit-content;
+    width: 20vw;
+    margin-top: 20vh;
+}
+h1{
+    width: fit-content;
+    background-color: crimson;
+    margin-left: 3.8rem;
+    border: .2rem solid black ;
+    border-radius: .6rem;
+    padding: 0.5rem;
+}
+input{
+    height: 3rem;
+    margin: 0.5rem;
+}
+.add{
+    display: flex;
+
+}
+button{
+    background-color: chartreuse;
+    height: 2.5rem;
+    margin: 1rem;
+    width: 2rem;
+    font-size:xx-large;
+    border: 0.1rem solid black;
+   border-radius: 0.3rem; 
+}
